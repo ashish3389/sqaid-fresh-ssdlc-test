@@ -1,0 +1,8 @@
+{
+  "requirementTitle": "Add clean SSDLC evidence metadata artifact",
+  "policyEnforced": true,
+  "humanReviewRequired": true,
+  "testsRequired": true,
+  "generatedAt": "2026-07-11T18:34:45.368Z",
+  "source": "forge"
+}
