@@ -1,1 +1,5 @@
 Hello World!
+
+## Health Check
+
+Health metadata is available in `health.json`.
