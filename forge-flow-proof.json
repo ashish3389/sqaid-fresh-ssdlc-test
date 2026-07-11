@@ -1,0 +1,7 @@
+{
+  "provider": "anthropic-claude",
+  "humanReviewRequired": true,
+  "policyEnforced": true,
+  "testsCaptured": true,
+  "generatedAt": "2024-01-15T08:30:00Z"
+}
